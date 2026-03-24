@@ -33,16 +33,20 @@ Usage:
 
 2.if the user chooses admin, they then have three options, add student info/add teacher info/generate reports.
 3.when adding student information the details are typed in when necessary or options are choosen from drop down boxes menus, the user can then add/delete/update the info using buttons at the top of the screen.
+
 <img width="495" height="126" alt="image" src="https://github.com/user-attachments/assets/94eaa6ab-b73d-4b79-b3df-c59fe8ad7f61" />
 
 4. adding teacher information is the same as student.
+5. 
 <img width="495" height="126" alt="image" src="https://github.com/user-attachments/assets/897ab4f9-5b11-4108-ba56-eab629ff9b99" />
 
 5.generating reports is done by entering parameters into the search boxes and then pressing the search button to generate.
+
 <img width="495" height="126" alt="image" src="https://github.com/user-attachments/assets/d5ca8c2c-28e2-4d7e-a493-d3a5ca0853c6" />
 
 6.when logging in as a teacher you must enter your teaceher id to get your students information, then you can quickly view all yourr student grades from the button at the bottom of the screen or view grades in detail using the student grades button at the top which brings you to another page.
 7.once at this page you can enter a students surname in the top left search bar to bring up that students grades, or you can enter a class groups class code in the bottom right search bar to bring up the whole classes grades in the grid, grades can be added/deleted/updated.
+
 <img width="495" height="126" alt="image" src="https://github.com/user-attachments/assets/6e88a7e7-490f-4716-a2eb-a08aac127ba9" />
 
 AI Acknowledgment:
